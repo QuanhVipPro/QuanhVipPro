@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Github 👋
 - 🔭 I’m currently working on some random projects
 - 🌱 I’m currently learning software engineer
 - 🤔 I’m looking for help with my understanding around things
