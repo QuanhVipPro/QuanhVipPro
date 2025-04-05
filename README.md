@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on some random projects
+- 🌱 I’m currently learning software engineer
+- 🤔 I’m looking for help with my understanding around things
+- 💬 Ask me about technology and stuffs
+- 📫 Here is my email: quocanhaddc@gmail.com
+- 😄 Pronouns: I'm a refrigerator 
+- ⚡ Fun fact: I haven't showered for weeks
 <!--
 **QuanhVipPro/QuanhVipPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
